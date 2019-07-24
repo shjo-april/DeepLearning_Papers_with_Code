@@ -9,5 +9,6 @@
 * A Neural Algorithm of Artistic Style [[Paper]](https://arxiv.org/abs/1508.06576) [[Code]](https://github.com/OFRIN/Tensorflow_A_Neural_Algorithm_of_Artistic_Style)
 * Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1406.2661) [[Code]](https://github.com/OFRIN/Tensorflow_GAN)
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[Paper]](https://arxiv.org/abs/1703.10593) [[Code]](https://github.com/OFRIN/Tensorflow_CycleGAN)
+* Image-to-Image Translation with Conditional Adversarial Networks [[Paper]](https://arxiv.org/abs/1611.07004) [[Code]](https://github.com/OFRIN/Tensorflow_Pixel2Pixel)
 
 ## Reinforcement Learning
