@@ -1,16 +1,32 @@
 # DeepLearning Papers with Code !!!
 
-## Basic
+## # Basic
 * MLP [[Code]](https://github.com/OFRIN/Tensorflow_MLP)
 
-## Supervised Learning
+## # Supervised Learning
+
+### Weakly Supervised Learning
+* Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [Code]
+
+### Detection
 * You Only Look Once: Unified, Real-Time Object Detection [[Paper]](https://arxiv.org/abs/1506.02640) [[Code]](https://github.com/OFRIN/Tensorflow_YOLOv1)
 * SSD: Single Shot MultiBox Detector [[Paper]](https://arxiv.org/abs/1512.02325) [[Code]](https://github.com/OFRIN/Tensorflow_SSD)
+
+### Segmentation
 * Fully Convolutional Networks for Semantic Segmentation [[Paper]](https://arxiv.org/abs/1605.06211) [[Code]](https://github.com/OFRIN/Tensorflow_FCN)
-* Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [Code]
+
+### Recognition
 * FaceNet: A Unified Embedding for Face Recognition and Clustering [[Paper]](https://arxiv.org/abs/1503.03832) [Code]
 
-## Unsupervised Learning
+### Tagging
+* Deep Convolutional Ranking for Multilabel Image Annotation [[Paper]](https://arxiv.org/abs/1312.4894) [Code]
+* CNN-RNN: A Unified Framework for Multi-label Image Classification [[Paper]](https://arxiv.org/abs/1604.04573) [Code]
+* Semantic Regularisation for Recurrent Image Annotation [[Paper]](https://arxiv.org/abs/1611.05490) [Code]
+* Multi-label Triplet Embeddings for Image Annotation from User-Generated Tags [[Paper]](https://www.semanticscholar.org/paper/Multi-label-Triplet-Embeddings-for-Image-Annotation-Seymour-Zhang/64a0323adf55db3d3de20cc2a8176961548379f4) [Code]
+* Fast Zero-Shot Image Tagging (Fast0Tag) [[Paper]](https://arxiv.org/abs/1605.09759) [Code]
+* Deep Multiple Instance Learning for Zero-shot Image Tagging (Deep0Tag) [[Paper]](https://arxiv.org/abs/1803.06051) [Code]
+
+## # Unsupervised Learning
 * A Neural Algorithm of Artistic Style [[Paper]](https://arxiv.org/abs/1508.06576) [[Code]](https://github.com/OFRIN/Tensorflow_A_Neural_Algorithm_of_Artistic_Style)
 * Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1406.2661) [[Code]](https://github.com/OFRIN/Tensorflow_GAN)
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[Paper]](https://arxiv.org/abs/1703.10593) [[Code]](https://github.com/OFRIN/Tensorflow_CycleGAN)
@@ -19,5 +35,5 @@
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](https://github.com/OFRIN/Tensorflow_DCGAN)
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[Paper]](https://arxiv.org/abs/1609.04802)
 
-## Reinforcement Learning
+## # Reinforcement Learning
 
