@@ -6,7 +6,7 @@
 ## # Supervised Learning
 
 ### Weakly Supervised Learning
-* Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [Code]
+* Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[Code]](https://github.com/OFRIN/Tensorflow_Learning_Deep_Features_for_Discriminative_Localization)
 
 ### Detection
 * You Only Look Once: Unified, Real-Time Object Detection [[Paper]](https://arxiv.org/abs/1506.02640) [[Code]](https://github.com/OFRIN/Tensorflow_YOLOv1)
