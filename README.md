@@ -28,7 +28,7 @@
 * Multi-label Triplet Embeddings for Image Annotation from User-Generated Tags [[Paper]](https://www.semanticscholar.org/paper/Multi-label-Triplet-Embeddings-for-Image-Annotation-Seymour-Zhang/64a0323adf55db3d3de20cc2a8176961548379f4) [Code]
 * Fast Zero-Shot Image Tagging (Fast0Tag) [[Paper]](https://arxiv.org/abs/1605.09759) [Code]
 * Deep Multiple Instance Learning for Zero-shot Image Tagging (Deep0Tag) [[Paper]](https://arxiv.org/abs/1803.06051) [Code]
-* Improving Pairwise Ranking for Multi-label Image Classification [[Paper]](https://arxiv.org/abs/1704.03135) [Code]
+* Improving Pairwise Ranking for Multi-label Image Classification [[Paper]](https://arxiv.org/abs/1704.03135) [[Code]](https://github.com/OFRIN/Tensorflow_Improving_Pairwise_Ranking_for_Multi-label_Image_Classification)
 
 ## # Unsupervised Learning
 * A Neural Algorithm of Artistic Style [[Paper]](https://arxiv.org/abs/1508.06576) [[Code]](https://github.com/OFRIN/Tensorflow_A_Neural_Algorithm_of_Artistic_Style)
