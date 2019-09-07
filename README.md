@@ -14,6 +14,7 @@
 * YOLOv3: An Incremental Improvement [[Paper]](https://pjreddie.com/media/files/papers/YOLOv3.pdf) [Code]
 * SSD: Single Shot MultiBox Detector [[Paper]](https://arxiv.org/abs/1512.02325) [[Code]](https://github.com/OFRIN/Tensorflow_SSD)
 * Focal Loss for Dense Object Detection [[Paper]](https://arxiv.org/abs/1708.02002) [Code]
+* Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Rezatofighi_Generalized_Intersection_Over_Union_A_Metric_and_a_Loss_for_CVPR_2019_paper.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_GIoU)
 
 ### Segmentation
 * Fully Convolutional Networks for Semantic Segmentation [[Paper]](https://arxiv.org/abs/1605.06211) [[Code]](https://github.com/OFRIN/Tensorflow_FCN)
