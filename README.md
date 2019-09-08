@@ -1,7 +1,11 @@
-# DeepLearning Papers with Code !!!
+# DeepLearning Papers with My Code !!!
 
 ## # Basic
 * MLP [[Code]](https://github.com/OFRIN/Tensorflow_MLP)
+
+## # Training Techniques
+- Group Normalization [[Paper]](https://arxiv.org/pdf/1803.08494.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_Group_Norm_vs_Batch_Norm)
+- Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[Paper]](https://arxiv.org/pdf/1502.03167.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_Group_Norm_vs_Batch_Norm)
 
 ## # Supervised Learning
 
