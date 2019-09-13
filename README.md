@@ -14,7 +14,7 @@
 
 ### Detection
 * You Only Look Once: Unified, Real-Time Object Detection [[Paper]](https://arxiv.org/abs/1506.02640) [[Code]](https://github.com/OFRIN/Tensorflow_YOLOv1)
-* YOLO9000: Better, Faster, Stronger [[Paper]](https://pjreddie.com/media/files/papers/YOLO9000.pdf) [Code]
+* YOLO9000: Better, Faster, Stronger [[Paper]](https://pjreddie.com/media/files/papers/YOLO9000.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_YOLOv2)
 * YOLOv3: An Incremental Improvement [[Paper]](https://pjreddie.com/media/files/papers/YOLOv3.pdf) [Code]
 * SSD: Single Shot MultiBox Detector [[Paper]](https://arxiv.org/abs/1512.02325) [[Code]](https://github.com/OFRIN/Tensorflow_SSD)
 * Focal Loss for Dense Object Detection [[Paper]](https://arxiv.org/abs/1708.02002) [Code]
