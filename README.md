@@ -49,6 +49,7 @@
 * Conditional Generative Adversarial Nets [[Paper]](https://arxiv.org/abs/1411.1784) [[Code]](https://github.com/OFRIN/Tensorflow_ConditionalGAN)
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](https://github.com/OFRIN/Tensorflow_DCGAN)
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[Paper]](https://arxiv.org/abs/1609.04802) [Code]
+* MixMatch: A Holistic Approach to Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.02249) [Code]
 
 ## # Reinforcement Learning
 
