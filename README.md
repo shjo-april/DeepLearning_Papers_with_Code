@@ -24,6 +24,8 @@
 * DSOD: Learning Deeply Supervised Object Detectors from Scratch [[Paper]](https://arxiv.org/abs/1708.01241) [Code]
 * Objects as Points [[Paper]](https://arxiv.org/abs/1904.07850) [Code]
 * FCOS: Fully Convolutional One-Stage Object Detection [[Paper]](https://arxiv.org/abs/1904.01355) [[Code]](https://github.com/OFRIN/Tensorflow_FCOS)
+* Finding Tiny Faces [[Paper]](https://arxiv.org/abs/1612.04402) [Code]
+* RetinaFace: Single-stage Dense Face Localisation in the Wild [[Paper]](https://arxiv.org/abs/1905.00641) [Code]
 
 ### Segmentation
 * Fully Convolutional Networks for Semantic Segmentation [[Paper]](https://arxiv.org/abs/1605.06211) [[Code]](https://github.com/OFRIN/Tensorflow_FCN)
@@ -40,6 +42,10 @@
 * Fast Zero-Shot Image Tagging (Fast0Tag) [[Paper]](https://arxiv.org/abs/1605.09759) [Code]
 * Deep Multiple Instance Learning for Zero-shot Image Tagging (Deep0Tag) [[Paper]](https://arxiv.org/abs/1803.06051) [Code]
 * Improving Pairwise Ranking for Multi-label Image Classification [[Paper]](https://arxiv.org/abs/1704.03135) [[Code]](https://github.com/OFRIN/Tensorflow_Improving_Pairwise_Ranking_for_Multi-label_Image_Classification)
+
+### Video Classification
+
+### Domain Adaptation
 
 ## # Unsupervised Learning
 * A Neural Algorithm of Artistic Style [[Paper]](https://arxiv.org/abs/1508.06576) [[Code]](https://github.com/OFRIN/Tensorflow_A_Neural_Algorithm_of_Artistic_Style)
