@@ -44,8 +44,14 @@
 * Improving Pairwise Ranking for Multi-label Image Classification [[Paper]](https://arxiv.org/abs/1704.03135) [[Code]](https://github.com/OFRIN/Tensorflow_Improving_Pairwise_Ranking_for_Multi-label_Image_Classification)
 
 ### Video Classification
+* Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[Paper]](https://arxiv.org/abs/1705.07750) [Code]
 
 ### Domain Adaptation
+* Domain Adversarial Neural Networks [[Paper]](https://arxiv.org/abs/1505.07818) [Code]
+* Adversarial Discriminative Domain Adaptation [[Paper]](https://arxiv.org/abs/1702.05464) [Code]
+
+### Keypoint
+* Convolutional Pose Machines [[Paper]](https://arxiv.org/abs/1602.00134) [Code]
 
 ## # Unsupervised Learning
 * A Neural Algorithm of Artistic Style [[Paper]](https://arxiv.org/abs/1508.06576) [[Code]](https://github.com/OFRIN/Tensorflow_A_Neural_Algorithm_of_Artistic_Style)
