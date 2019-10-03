@@ -26,6 +26,7 @@
 * FCOS: Fully Convolutional One-Stage Object Detection [[Paper]](https://arxiv.org/abs/1904.01355) [[Code]](https://github.com/OFRIN/Tensorflow_FCOS)
 * Finding Tiny Faces [[Paper]](https://arxiv.org/abs/1612.04402) [Code]
 * RetinaFace: Single-stage Dense Face Localisation in the Wild [[Paper]](https://arxiv.org/abs/1905.00641) [Code]
+* Feature Selective Anchor-Free Module for Single-Shot Object Detection [[Paper]](https://arxiv.org/abs/1903.00621) [Code]
 
 ### Segmentation
 * Fully Convolutional Networks for Semantic Segmentation [[Paper]](https://arxiv.org/abs/1605.06211) [[Code]](https://github.com/OFRIN/Tensorflow_FCN)
