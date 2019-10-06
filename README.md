@@ -25,7 +25,7 @@
 * Objects as Points [[Paper]](https://arxiv.org/abs/1904.07850) [Code]
 * FCOS: Fully Convolutional One-Stage Object Detection [[Paper]](https://arxiv.org/abs/1904.01355) [[Code]](https://github.com/OFRIN/Tensorflow_FCOS)
 * Finding Tiny Faces [[Paper]](https://arxiv.org/abs/1612.04402) [Code]
-* RetinaFace: Single-stage Dense Face Localisation in the Wild [[Paper]](https://arxiv.org/abs/1905.00641) [Code]
+* RetinaFace: Single-stage Dense Face Localisation in the Wild [[Paper]](https://arxiv.org/abs/1905.00641) [[Code]](https://github.com/OFRIN/Tensorflow_RetinaFace)
 * Feature Selective Anchor-Free Module for Single-Shot Object Detection [[Paper]](https://arxiv.org/abs/1903.00621) [Code]
 
 ### Segmentation
