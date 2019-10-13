@@ -29,6 +29,9 @@
 * RetinaFace: Single-stage Dense Face Localisation in the Wild [[Paper]](https://arxiv.org/abs/1905.00641) [[Code]](https://github.com/OFRIN/Tensorflow_RetinaFace)
 * Feature Selective Anchor-Free Module for Single-Shot Object Detection [[Paper]](https://arxiv.org/abs/1903.00621) [Code]
 * Rethinking ImageNet Pre-training [[Paper]](https://arxiv.org/abs/1811.08883) [Code]
+* Objects as Points [[Paper]](https://arxiv.org/abs/1904.07850) [Code]
+* CornerNet: Detecting Objects as Paired Keypoints [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Hei_Law_CornerNet_Detecting_Objects_ECCV_2018_paper.html) [Code]
+* CenterNet: Keypoint Triplets for Object Detection [[Paper]](https://arxiv.org/abs/1904.08189) [Code]
 
 ### Segmentation
 * Fully Convolutional Networks for Semantic Segmentation [[Paper]](https://arxiv.org/abs/1605.06211) [[Code]](https://github.com/OFRIN/Tensorflow_FCN)
