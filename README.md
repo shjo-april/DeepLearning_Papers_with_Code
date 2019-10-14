@@ -10,6 +10,12 @@
 
 ## # Supervised Learning
 
+### Classification
+* Very Deep Convolutional Networks for Large-Scale Image Recognition [[Paper]](https://arxiv.org/abs/1409.1556) [Code]
+* Deep Residual Learning for Image Recognition [[Paper]](https://arxiv.org/abs/1512.03385) [Code]
+* Aggregated Residual Transformations for Deep Neural Networks [[Paper]](https://arxiv.org/abs/1611.05431) [Code]
+* Densely Connected Convolutional Networks [[Paper]](https://arxiv.org/abs/1608.06993) [Code]
+
 ### Weakly Supervised Learning
 * Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[Code]](https://github.com/OFRIN/Tensorflow_Learning_Deep_Features_for_Discriminative_Localization)
 
@@ -58,6 +64,7 @@
 
 ### Keypoint
 * Convolutional Pose Machines [[Paper]](https://arxiv.org/abs/1602.00134) [Code]
+* Stacked Hourglass Networks for Human Pose Estimation [[Paper]](https://arxiv.org/abs/1603.06937) [Code]
 
 ## # Unsupervised Learning
 * A Neural Algorithm of Artistic Style [[Paper]](https://arxiv.org/abs/1508.06576) [[Code]](https://github.com/OFRIN/Tensorflow_A_Neural_Algorithm_of_Artistic_Style)
