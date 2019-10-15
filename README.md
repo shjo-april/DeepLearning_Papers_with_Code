@@ -4,9 +4,13 @@
 * MLP [[Code]](https://github.com/OFRIN/Tensorflow_MLP)
 
 ## # Training Techniques
-- Group Normalization [[Paper]](https://arxiv.org/pdf/1803.08494.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_Group_Norm_vs_Batch_Norm)
-- Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[Paper]](https://arxiv.org/pdf/1502.03167.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_Group_Norm_vs_Batch_Norm)
-- On the Variance of the Adaptive Learning Rate and Beyond (RAdam) [[Paper]](https://arxiv.org/abs/1908.03265) [Code]
+* Group Normalization [[Paper]](https://arxiv.org/pdf/1803.08494.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_Group_Norm_vs_Batch_Norm)
+* Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[Paper]](https://arxiv.org/pdf/1502.03167.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_Group_Norm_vs_Batch_Norm)
+* On the Variance of the Adaptive Learning Rate and Beyond (RAdam) [[Paper]](https://arxiv.org/abs/1908.03265) [Code]
+* MixMatch: A Holistic Approach to Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.02249) [Code]
+
+## # AutoML
+* NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection [[Paper]](https://arxiv.org/abs/1904.07392) [Code]
 
 ## # Supervised Learning
 
@@ -74,7 +78,6 @@
 * Conditional Generative Adversarial Nets [[Paper]](https://arxiv.org/abs/1411.1784) [[Code]](https://github.com/OFRIN/Tensorflow_ConditionalGAN)
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](https://github.com/OFRIN/Tensorflow_DCGAN)
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[Paper]](https://arxiv.org/abs/1609.04802) [Code]
-* MixMatch: A Holistic Approach to Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.02249) [Code]
 
 ## # Reinforcement Learning
 
