@@ -43,10 +43,14 @@
 * CornerNet: Detecting Objects as Paired Keypoints [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Hei_Law_CornerNet_Detecting_Objects_ECCV_2018_paper.html) [Code]
 * CenterNet: Keypoint Triplets for Object Detection [[Paper]](https://arxiv.org/abs/1904.08189) [Code]
 * FoveaBox: Beyond Anchor-based Object Detector [[Paper]](https://arxiv.org/abs/1904.03797) [Code]
+* Scale-Aware Trident Networks for Object Detection [[Paper]](https://arxiv.org/abs/1901.01892) [Code]
 
-### Segmentation
+### Semantic Segmentation
 * Fully Convolutional Networks for Semantic Segmentation [[Paper]](https://arxiv.org/abs/1605.06211) [[Code]](https://github.com/OFRIN/Tensorflow_FCN)
 * ParseNet: Looking Wider to See Better [[Paper]](https://arxiv.org/abs/1506.04579) [Code]
+
+### Instance Segmentation
+
 
 ### Recognition
 * FaceNet: A Unified Embedding for Face Recognition and Clustering [[Paper]](https://arxiv.org/abs/1503.03832) [Code]
