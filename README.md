@@ -19,6 +19,7 @@
 * Deep Residual Learning for Image Recognition [[Paper]](https://arxiv.org/abs/1512.03385) [Code]
 * Aggregated Residual Transformations for Deep Neural Networks [[Paper]](https://arxiv.org/abs/1611.05431) [Code]
 * Densely Connected Convolutional Networks [[Paper]](https://arxiv.org/abs/1608.06993) [Code]
+* EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks [[Paper]](https://arxiv.org/abs/1905.11946) [Code]
 
 ### Weakly Supervised Learning
 * Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[Code]](https://github.com/OFRIN/Tensorflow_Learning_Deep_Features_for_Discriminative_Localization)
