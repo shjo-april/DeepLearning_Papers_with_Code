@@ -51,7 +51,7 @@
 * ParseNet: Looking Wider to See Better [[Paper]](https://arxiv.org/abs/1506.04579) [Code]
 
 ### Instance Segmentation
-
+* YOLACT: Real-time Instance Segmentation [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.pdf) [Code]
 
 ### Recognition
 * FaceNet: A Unified Embedding for Face Recognition and Clustering [[Paper]](https://arxiv.org/abs/1503.03832) [Code]
