@@ -84,6 +84,7 @@
 * Conditional Generative Adversarial Nets [[Paper]](https://arxiv.org/abs/1411.1784) [[Code]](https://github.com/OFRIN/Tensorflow_ConditionalGAN)
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](https://github.com/OFRIN/Tensorflow_DCGAN)
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[Paper]](https://arxiv.org/abs/1609.04802) [Code]
+* Component Attention Guided Face Super-Resolution Network: CAGFace [[Paper]](https://arxiv.org/abs/1910.08761) [Code]
 
 ## # Reinforcement Learning
 
