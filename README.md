@@ -10,6 +10,7 @@
 * MixMatch: A Holistic Approach to Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.02249) [Code]
 
 ## # AutoML
+* Efficient Neural Architecture Search via Parameter Sharing [[Paper]](https://arxiv.org/abs/1802.03268) [Code]
 * NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection [[Paper]](https://arxiv.org/abs/1904.07392) [Code]
 
 ## # Supervised Learning
