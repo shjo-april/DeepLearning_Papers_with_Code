@@ -2,12 +2,19 @@
 
 ## # Basic
 * MLP [[Code]](https://github.com/OFRIN/Tensorflow_MLP)
+* Exponential Moving Average [[Code]](https://github.com/OFRIN/Tensorflow_Exponential_Moving_Average)
 
 ## # Training Techniques
 * Group Normalization [[Paper]](https://arxiv.org/pdf/1803.08494.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_Group_Norm_vs_Batch_Norm)
 * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[Paper]](https://arxiv.org/pdf/1502.03167.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_Group_Norm_vs_Batch_Norm)
 * On the Variance of the Adaptive Learning Rate and Beyond (RAdam) [[Paper]](https://arxiv.org/abs/1908.03265) [Code]
+* Bag of Tricks for Image Classification with Convolutional Neural Networks [[Paper]](https://arxiv.org/abs/1812.01187) [Code]
+* ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [[Paper]](https://arxiv.org/abs/1811.12231) [Code]
+
+## # Semi Supervised Learning
 * MixMatch: A Holistic Approach to Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.02249) [Code]
+* S4L: Self-Supervised Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.03670) [Code]
+* Unsupervised Data Augmentation for consistency training [[Paper]](https://arxiv.org/abs/1904.12848) [Code]
 
 ## # AutoML
 * Efficient Neural Architecture Search via Parameter Sharing [[Paper]](https://arxiv.org/abs/1802.03268) [Code]
