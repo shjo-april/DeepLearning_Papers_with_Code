@@ -10,6 +10,7 @@
 * On the Variance of the Adaptive Learning Rate and Beyond (RAdam) [[Paper]](https://arxiv.org/abs/1908.03265) [Code]
 * Bag of Tricks for Image Classification with Convolutional Neural Networks [[Paper]](https://arxiv.org/abs/1812.01187) [Code]
 * ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [[Paper]](https://arxiv.org/abs/1811.12231) [Code]
+* mixup: Beyond Empirical Risk Minimization [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/OFRIN/Tensorflow_MixUp)
 
 ## # Semi Supervised Learning
 * MixMatch: A Holistic Approach to Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.02249) [Code]
