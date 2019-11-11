@@ -54,6 +54,7 @@
 * CenterNet: Keypoint Triplets for Object Detection [[Paper]](https://arxiv.org/abs/1904.08189) [Code]
 * FoveaBox: Beyond Anchor-based Object Detector [[Paper]](https://arxiv.org/abs/1904.03797) [Code]
 * Scale-Aware Trident Networks for Object Detection [[Paper]](https://arxiv.org/abs/1901.01892) [Code]
+* Bag of Freebies for Training Object Detection Neural Networks [[Paper]](https://arxiv.org/abs/1902.04103) [Code]
 
 ### Semantic Segmentation
 * Fully Convolutional Networks for Semantic Segmentation [[Paper]](https://arxiv.org/abs/1605.06211) [[Code]](https://github.com/OFRIN/Tensorflow_FCN)
