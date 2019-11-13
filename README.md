@@ -13,7 +13,7 @@
 * mixup: Beyond Empirical Risk Minimization [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/OFRIN/Tensorflow_MixUp)
 
 ## # Semi Supervised Learning
-* MixMatch: A Holistic Approach to Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.02249) [Code]
+* MixMatch: A Holistic Approach to Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.02249) [[Code]](https://github.com/OFRIN/Tensorflow_MixMatch)
 * S4L: Self-Supervised Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.03670) [Code]
 * Unsupervised Data Augmentation for consistency training [[Paper]](https://arxiv.org/abs/1904.12848) [Code]
 
