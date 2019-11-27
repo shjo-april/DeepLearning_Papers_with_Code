@@ -20,6 +20,7 @@
 ## # AutoML
 * Efficient Neural Architecture Search via Parameter Sharing [[Paper]](https://arxiv.org/abs/1802.03268) [Code]
 * NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection [[Paper]](https://arxiv.org/abs/1904.07392) [Code]
+* EfficientDet: Scalable and Efficient Object Detection [[Paper]](https://arxiv.org/abs/1911.09070) [Code]
 
 ## # Supervised Learning
 
