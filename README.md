@@ -60,6 +60,7 @@
 ### Semantic Segmentation
 * Fully Convolutional Networks for Semantic Segmentation [[Paper]](https://arxiv.org/abs/1605.06211) [[Code]](https://github.com/OFRIN/Tensorflow_FCN)
 * ParseNet: Looking Wider to See Better [[Paper]](https://arxiv.org/abs/1506.04579) [Code]
+* Rethinking Atrous Convolution for Semantic Image Segmentation [[Paper]](https://arxiv.org/abs/1706.05587) [Code]
 
 ### Instance Segmentation
 * YOLACT: Real-time Instance Segmentation [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.pdf) [Code]
