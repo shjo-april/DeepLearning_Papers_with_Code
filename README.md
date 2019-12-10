@@ -11,6 +11,7 @@
 * Bag of Tricks for Image Classification with Convolutional Neural Networks [[Paper]](https://arxiv.org/abs/1812.01187) [Code]
 * ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [[Paper]](https://arxiv.org/abs/1811.12231) [Code]
 * mixup: Beyond Empirical Risk Minimization [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/OFRIN/Tensorflow_MixUp)
+* AUGMIX: A SIMPLE DATA PROCESSING METHOD TO IMPROVE ROBUSTNESS AND UNCERTAINTY [[Paper]](https://arxiv.org/pdf/1912.02781v1.pdf) [Code]
 
 ## # Semi Supervised Learning
 * MixMatch: A Holistic Approach to Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.02249) [[Code]](https://github.com/OFRIN/Tensorflow_MixMatch)
@@ -98,6 +99,7 @@
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](https://github.com/OFRIN/Tensorflow_DCGAN)
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[Paper]](https://arxiv.org/abs/1609.04802) [Code]
 * Component Attention Guided Face Super-Resolution Network: CAGFace [[Paper]](https://arxiv.org/abs/1910.08761) [Code]
+* StarGAN v2: Diverse Image Synthesis for Multiple Domains [[Paper]](https://arxiv.org/abs/1912.01865) [Code]
 
 ## # Reinforcement Learning
 
