@@ -100,6 +100,7 @@
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[Paper]](https://arxiv.org/abs/1609.04802) [Code]
 * Component Attention Guided Face Super-Resolution Network: CAGFace [[Paper]](https://arxiv.org/abs/1910.08761) [Code]
 * StarGAN v2: Diverse Image Synthesis for Multiple Domains [[Paper]](https://arxiv.org/abs/1912.01865) [Code]
+* SinGAN: Learning a Generative Model from a Single Natural Image [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.pdf) [Code]
 
 ## # Reinforcement Learning
 
