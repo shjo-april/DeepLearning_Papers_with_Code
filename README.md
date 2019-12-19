@@ -32,6 +32,7 @@
 * Aggregated Residual Transformations for Deep Neural Networks [[Paper]](https://arxiv.org/abs/1611.05431) [Code]
 * Densely Connected Convolutional Networks [[Paper]](https://arxiv.org/abs/1608.06993) [Code]
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks [[Paper]](https://arxiv.org/abs/1905.11946) [Code]
+* MixConv: Mixed Depthwise Convolutional Kernels [[Paper]](https://bmvc2019.org/wp-content/uploads/papers/0583-paper.pdf) [Code]
 
 ### Weakly Supervised Learning
 * Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[Code]](https://github.com/OFRIN/Tensorflow_Learning_Deep_Features_for_Discriminative_Localization)
