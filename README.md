@@ -70,6 +70,7 @@
 * Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation [[Paper]](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Liang-Chieh_Chen_Encoder-Decoder_with_Atrous_ECCV_2018_paper.pdf) [Code]
 
 ### Instance Segmentation
+* Mask R-CNN [[Paper]](https://arxiv.org/abs/1703.06870?source=post_page---------------------------) [Code]
 * YOLACT: Real-time Instance Segmentation [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.pdf) [Code]
 
 ### Recognition
