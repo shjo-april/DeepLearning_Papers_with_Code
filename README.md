@@ -20,9 +20,8 @@
 * EnAET: Self-Trained Ensemble AutoEncoding Transformations for Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1911.09265) [Code]
  
 ## # AutoML
-* Efficient Neural Architecture Search via Parameter Sharing [[Paper]](https://arxiv.org/abs/1802.03268) [Code]
 * NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection [[Paper]](https://arxiv.org/abs/1904.07392) [Code]
-* EfficientDet: Scalable and Efficient Object Detection [[Paper]](https://arxiv.org/abs/1911.09070) [Code]
+* RandAugment: Practical automated data augmentation with a reduced search space [[Paper]](https://arxiv.org/abs/1909.13719)  [Code]
 
 ## # Supervised Learning
 
@@ -34,6 +33,7 @@
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks [[Paper]](https://arxiv.org/abs/1905.11946) [Code]
 * MixConv: Mixed Depthwise Convolutional Kernels [[Paper]](https://bmvc2019.org/wp-content/uploads/papers/0583-paper.pdf) [Code]
 * Shake-Shake regularization [[Paper]](https://arxiv.org/pdf/1705.07485.pdf) [Code]
+* Efficient Neural Architecture Search via Parameter Sharing [[Paper]](https://arxiv.org/abs/1802.03268) [Code]
 
 ### Weakly Supervised Learning
 * Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[Code]](https://github.com/OFRIN/Tensorflow_Learning_Deep_Features_for_Discriminative_Localization)
