@@ -18,7 +18,8 @@
 * S4L: Self-Supervised Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.03670) [Code]
 * Unsupervised Data Augmentation for consistency training [[Paper]](https://arxiv.org/abs/1904.12848) [[Code]](https://github.com/OFRIN/Tenorflow_UDA)
 * EnAET: Self-Trained Ensemble AutoEncoding Transformations for Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1911.09265) [Code]
- 
+* ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring [[Paper]](https://arxiv.org/abs/1911.09785) [Code]
+
 ## # AutoML
 * NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection [[Paper]](https://arxiv.org/abs/1904.07392) [Code]
 * RandAugment: Practical automated data augmentation with a reduced search space [[Paper]](https://arxiv.org/abs/1909.13719)  [Code]
