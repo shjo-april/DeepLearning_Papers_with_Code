@@ -86,6 +86,7 @@
 * Fast Zero-Shot Image Tagging (Fast0Tag) [[Paper]](https://arxiv.org/abs/1605.09759) [Code]
 * Deep Multiple Instance Learning for Zero-shot Image Tagging (Deep0Tag) [[Paper]](https://arxiv.org/abs/1803.06051) [Code]
 * Improving Pairwise Ranking for Multi-label Image Classification [[Paper]](https://arxiv.org/abs/1704.03135) [[Code]](https://github.com/OFRIN/Tensorflow_Improving_Pairwise_Ranking_for_Multi-label_Image_Classification)
+* Learning From Noisy Large-Scale Datasets With Minimal Supervision [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Veit_Learning_From_Noisy_CVPR_2017_paper.pdf) [Code]
 
 ### Video Classification
 * Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[Paper]](https://arxiv.org/abs/1705.07750) [Code]
