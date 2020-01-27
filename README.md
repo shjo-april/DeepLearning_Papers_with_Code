@@ -21,6 +21,7 @@
 * ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring [[Paper]](https://arxiv.org/abs/1911.09785) [Code]
 
 ## # AutoML
+* AutoAugment [Paper][Code]
 * NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection [[Paper]](https://arxiv.org/abs/1904.07392) [Code]
 * RandAugment: Practical automated data augmentation with a reduced search space [[Paper]](https://arxiv.org/abs/1909.13719)  [Code]
 
