@@ -100,6 +100,8 @@
 * Convolutional Pose Machines [[Paper]](https://arxiv.org/abs/1602.00134) [Code]
 * Stacked Hourglass Networks for Human Pose Estimation [[Paper]](https://arxiv.org/abs/1603.06937) [Code]
 
+### Super Resolution
+
 ## # Unsupervised Learning
 * A Neural Algorithm of Artistic Style [[Paper]](https://arxiv.org/abs/1508.06576) [[Code]](https://github.com/OFRIN/Tensorflow_A_Neural_Algorithm_of_Artistic_Style)
 * Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1406.2661) [[Code]](https://github.com/OFRIN/Tensorflow_GAN)
