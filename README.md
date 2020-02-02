@@ -19,6 +19,7 @@
 * Unsupervised Data Augmentation for consistency training [[Paper]](https://arxiv.org/abs/1904.12848) [[Code]](https://github.com/OFRIN/Tenorflow_UDA)
 * EnAET: Self-Trained Ensemble AutoEncoding Transformations for Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1911.09265) [Code]
 * ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring [[Paper]](https://arxiv.org/abs/1911.09785) [Code]
+* FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence [[Paper]](https://arxiv.org/pdf/2001.07685v1.pdf) [Code]
 
 ## # AutoML
 * AutoAugment [Paper][Code]
