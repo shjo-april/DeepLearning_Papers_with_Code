@@ -44,6 +44,7 @@
 * Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf) [Code]
 * Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shimoda_Self-Supervised_Difference_Detection_for_Weakly-Supervised_Semantic_Segmentation_ICCV_2019_paper.pdf) [Code]
 * Integral Object Mining via Online Attention Accumulation [[Paper]](http://mftp.mmcheng.net/Papers/19ICCV_OAA.pdf) [Code]
+* Self-supervised Scale Equivariant Networks for Weakly Supervivsed Semantic Segmentation [[Paper]](https://arxiv.org/abs/1909.03714) [Code]
 
 ### Detection
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[Paper]](https://arxiv.org/pdf/1506.01497.pdf) [Code]
