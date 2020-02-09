@@ -23,7 +23,7 @@
 * FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence [[Paper]](https://arxiv.org/pdf/2001.07685v1.pdf) [Code]
 
 ## # AutoML
-* AutoAugment [Paper][Code]
+* AutoAugment: Learning Augmentation Policies from Data [[Paper]](https://arxiv.org/abs/1805.09501) [Code]
 * NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection [[Paper]](https://arxiv.org/abs/1904.07392) [Code]
 * RandAugment: Practical automated data augmentation with a reduced search space [[Paper]](https://arxiv.org/abs/1909.13719)  [Code]
 
