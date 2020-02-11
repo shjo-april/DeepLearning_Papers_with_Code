@@ -20,7 +20,7 @@
 * Unsupervised Data Augmentation for consistency training [[Paper]](https://arxiv.org/abs/1904.12848) [[Code]](https://github.com/OFRIN/Tenorflow_UDA)
 * EnAET: Self-Trained Ensemble AutoEncoding Transformations for Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1911.09265) [Code]
 * ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring [[Paper]](https://arxiv.org/abs/1911.09785) [Code]
-* FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence [[Paper]](https://arxiv.org/pdf/2001.07685v1.pdf) [Code]
+* FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence [[Paper]](https://arxiv.org/pdf/2001.07685v1.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_FixMatch)
 
 ## # AutoML
 * AutoAugment: Learning Augmentation Policies from Data [[Paper]](https://arxiv.org/abs/1805.09501) [Code]
@@ -107,16 +107,25 @@
 * Image Super-Resolution Using Deep Convolutional Networks [[Paper]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_SRCNN)
 
 ## # Unsupervised Learning
+
+### Style Transfer
 * A Neural Algorithm of Artistic Style [[Paper]](https://arxiv.org/abs/1508.06576) [[Code]](https://github.com/OFRIN/Tensorflow_A_Neural_Algorithm_of_Artistic_Style)
 * Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1406.2661) [[Code]](https://github.com/OFRIN/Tensorflow_GAN)
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[Paper]](https://arxiv.org/abs/1703.10593) [[Code]](https://github.com/OFRIN/Tensorflow_CycleGAN)
 * Image-to-Image Translation with Conditional Adversarial Networks [[Paper]](https://arxiv.org/abs/1611.07004) [[Code]](https://github.com/OFRIN/Tensorflow_Pixel2Pixel)
-* Conditional Generative Adversarial Nets [[Paper]](https://arxiv.org/abs/1411.1784) [[Code]](https://github.com/OFRIN/Tensorflow_ConditionalGAN)
-* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](https://github.com/OFRIN/Tensorflow_DCGAN)
-* Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[Paper]](https://arxiv.org/abs/1609.04802) [Code]
-* Component Attention Guided Face Super-Resolution Network: CAGFace [[Paper]](https://arxiv.org/abs/1910.08761) [Code]
 * StarGAN v2: Diverse Image Synthesis for Multiple Domains [[Paper]](https://arxiv.org/abs/1912.01865) [Code]
 * SinGAN: Learning a Generative Model from a Single Natural Image [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.pdf) [Code]
+
+### Generative Adversarial Networks (GAN)
+* Conditional Generative Adversarial Nets [[Paper]](https://arxiv.org/abs/1411.1784) [[Code]](https://github.com/OFRIN/Tensorflow_ConditionalGAN)
+* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](https://github.com/OFRIN/Tensorflow_DCGAN)
+
+### Super Resolution
+* Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[Paper]](https://arxiv.org/abs/1609.04802) [Code]
+* Component Attention Guided Face Super-Resolution Network: CAGFace [[Paper]](https://arxiv.org/abs/1910.08761) [Code]
+
+### Anomaly Detection (a.k.a Out of Distribution)
+* Deep One-Class Classification [[Paper]](http://data.bit.uni-bonn.de/publications/ICML2018.pdf) [Code]
 
 ## # Reinforcement Learning
 
