@@ -11,6 +11,7 @@
 * Bag of Tricks for Image Classification with Convolutional Neural Networks [[Paper]](https://arxiv.org/abs/1812.01187) [Code]
 * ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [[Paper]](https://arxiv.org/abs/1811.12231) [Code]
 * mixup: Beyond Empirical Risk Minimization [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/OFRIN/Tensorflow_MixUp)
+* Improved Regularization of Convolutional Neural Networks with Cutout [[Paper]](https://arxiv.org/pdf/1708.04552.pdf) [Code]
 * AUGMIX: A SIMPLE DATA PROCESSING METHOD TO IMPROVE ROBUSTNESS AND UNCERTAINTY [[Paper]](https://arxiv.org/pdf/1912.02781v1.pdf) [Code]
 * CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [Code]
 
