@@ -38,7 +38,7 @@
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks [[Paper]](https://arxiv.org/abs/1905.11946) [Code]
 * MixConv: Mixed Depthwise Convolutional Kernels [[Paper]](https://bmvc2019.org/wp-content/uploads/papers/0583-paper.pdf) [Code]
 * Shake-Shake regularization [[Paper]](https://arxiv.org/pdf/1705.07485.pdf) [Code]
-* Efficient Neural Architecture Search via Parameter Sharing [[Paper]](https://arxiv.org/abs/1802.03268) [Code]
+* Efficient Neural Architecture Search via Parameter Sharing [[Paper]](https://arxiv.org/abs/1802.03268) [[Code]](https://github.com/OFRIN/Tensorflow_EfficientNet)
 
 ### Weakly Supervised Learning
 * Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[Code]](https://github.com/OFRIN/Tensorflow_Learning_Deep_Features_for_Discriminative_Localization)
