@@ -4,6 +4,9 @@
 * MLP [[Code]](https://github.com/OFRIN/Tensorflow_MLP)
 * Exponential Moving Average [[Code]](https://github.com/OFRIN/Tensorflow_Exponential_Moving_Average)
 
+## # Dataset
+* The iNaturalist Species Classification and Detection Dataset [[Paper]](https://arxiv.org/pdf/1707.06642v2.pdf)
+
 ## # Training Techniques
 * Group Normalization [[Paper]](https://arxiv.org/pdf/1803.08494.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_Group_Norm_vs_Batch_Norm)
 * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[Paper]](https://arxiv.org/pdf/1502.03167.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_Group_Norm_vs_Batch_Norm)
@@ -14,6 +17,7 @@
 * Improved Regularization of Convolutional Neural Networks with Cutout [[Paper]](https://arxiv.org/pdf/1708.04552.pdf) [Code]
 * AUGMIX: A SIMPLE DATA PROCESSING METHOD TO IMPROVE ROBUSTNESS AND UNCERTAINTY [[Paper]](https://arxiv.org/pdf/1912.02781v1.pdf) [Code]
 * CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [Code]
+* Class-Balanced Loss Based on Effective Number of Samples [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cui_Class-Balanced_Loss_Based_on_Effective_Number_of_Samples_CVPR_2019_paper.pdf) [Code]
 
 ## # Semi Supervised Learning
 * MixMatch: A Holistic Approach to Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.02249) [[Code]](https://github.com/OFRIN/Tensorflow_MixMatch)
