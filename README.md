@@ -5,6 +5,7 @@
 * Exponential Moving Average [[Code]](https://github.com/OFRIN/Tensorflow_Exponential_Moving_Average)
 
 ## # Dataset
+* Microsoft COCO: Common Objects in Context [[Paper]](https://arxiv.org/abs/1405.0312)
 * The iNaturalist Species Classification and Detection Dataset [[Paper]](https://arxiv.org/pdf/1707.06642v2.pdf)
 
 ## # Training Techniques
