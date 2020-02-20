@@ -114,6 +114,7 @@
 
 ### Super Resolution
 * Image Super-Resolution Using Deep Convolutional Networks [[Paper]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_SRCNN)
+* Image Super-Resolution by Neural Texture Transfer [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Image_Super-Resolution_by_Neural_Texture_Transfer_CVPR_2019_paper.pdf) [Code]
 
 ## # Unsupervised Learning
 
