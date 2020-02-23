@@ -112,10 +112,6 @@
 * Convolutional Pose Machines [[Paper]](https://arxiv.org/abs/1602.00134) [Code]
 * Stacked Hourglass Networks for Human Pose Estimation [[Paper]](https://arxiv.org/abs/1603.06937) [Code]
 
-### Super Resolution
-* Image Super-Resolution Using Deep Convolutional Networks [[Paper]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_SRCNN)
-* Image Super-Resolution by Neural Texture Transfer [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Image_Super-Resolution_by_Neural_Texture_Transfer_CVPR_2019_paper.pdf) [Code]
-
 ## # Unsupervised Learning
 
 ### Style Transfer
@@ -133,6 +129,8 @@
 ### Super Resolution
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[Paper]](https://arxiv.org/abs/1609.04802) [Code]
 * Component Attention Guided Face Super-Resolution Network: CAGFace [[Paper]](https://arxiv.org/abs/1910.08761) [Code]
+* Image Super-Resolution Using Deep Convolutional Networks [[Paper]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_SRCNN)
+* Image Super-Resolution by Neural Texture Transfer [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Image_Super-Resolution_by_Neural_Texture_Transfer_CVPR_2019_paper.pdf) [Code]
 
 ### Anomaly Detection (a.k.a Out of Distribution)
 * Deep One-Class Classification [[Paper]](http://data.bit.uni-bonn.de/publications/ICML2018.pdf) [Code]
