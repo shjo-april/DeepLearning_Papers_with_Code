@@ -134,6 +134,7 @@
 
 ### Anomaly Detection (a.k.a Out of Distribution)
 * Deep One-Class Classification [[Paper]](http://data.bit.uni-bonn.de/publications/ICML2018.pdf) [Code]
+* A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks [[Paper]](https://papers.nips.cc/paper/7947-a-simple-unified-framework-for-detecting-out-of-distribution-samples-and-adversarial-attacks.pdf) [Code]
 
 ## # Reinforcement Learning
 
