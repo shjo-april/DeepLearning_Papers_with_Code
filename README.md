@@ -51,7 +51,7 @@
 * Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[Code]](https://github.com/OFRIN/Tensorflow_Learning_Deep_Features_for_Discriminative_Localization)
 * Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf) [Code]
 * Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shimoda_Self-Supervised_Difference_Detection_for_Weakly-Supervised_Semantic_Segmentation_ICCV_2019_paper.pdf) [Code]
-* Integral Object Mining via Online Attention Accumulation [[Paper]](http://mftp.mmcheng.net/Papers/19ICCV_OAA.pdf) [Code]
+* Integral Object Mining via Online Attention Accumulation [[Pape1r]](http://mftp.mmcheng.net/Papers/19ICCV_OAA.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_OAA)
 * Self-supervised Scale Equivariant Networks for Weakly Supervivsed Semantic Segmentation [[Paper]](https://arxiv.org/abs/1909.03714) [Code]
 
 ### Detection
