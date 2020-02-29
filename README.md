@@ -21,6 +21,7 @@
 * Class-Balanced Loss Based on Effective Number of Samples [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cui_Class-Balanced_Loss_Based_on_Effective_Number_of_Samples_CVPR_2019_paper.pdf) [Code]
 * Fixing the train-test resolution discrepancy [[Paper]](https://papers.nips.cc/paper/9035-fixing-the-train-test-resolution-discrepancy.pdf) [Code]
 * Making Convolutional Networks Shift-Invariant Again [[Paper]](https://arxiv.org/pdf/1904.11486v2.pdf) [Code]
+* Fixing weight decay regulalrization in Adam [[Paper]](https://openreview.net/pdf?id=rk6qdGgCZ) [Code]
 
 ## # Semi Supervised Learning
 * MixMatch: A Holistic Approach to Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.02249) [[Code]](https://github.com/OFRIN/Tensorflow_MixMatch)
