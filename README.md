@@ -113,6 +113,10 @@
 * Convolutional Pose Machines [[Paper]](https://arxiv.org/abs/1602.00134) [Code]
 * Stacked Hourglass Networks for Human Pose Estimation [[Paper]](https://arxiv.org/abs/1603.06937) [Code]
 
+### Image Captioning
+* Deep Visual-Semantic Alignments for Generating Image Descriptions [[Paper]](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf) [Code]
+* Deep Reinforcement Learning-based Image Captioning with Embedding Reward [[Paper]](https://arxiv.org/abs/1704.03899) [Code]
+
 ## # Unsupervised Learning
 
 ### Style Transfer
@@ -139,3 +143,5 @@
 
 ## # Reinforcement Learning
 
+## # Natural Language Processing
+* Sequence to Sequence Learning with Neural Networks [[Paper]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) [Code]
