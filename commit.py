@@ -1,8 +1,8 @@
 import os
 import time
 
-output = print
-# output = os.system
+# output = print
+output = os.system
 
 data = time.localtime()
 

@@ -22,6 +22,8 @@
 * Fixing the train-test resolution discrepancy [[Paper]](https://papers.nips.cc/paper/9035-fixing-the-train-test-resolution-discrepancy.pdf) [Code]
 * Making Convolutional Networks Shift-Invariant Again [[Paper]](https://arxiv.org/pdf/1904.11486v2.pdf) [Code]
 * Fixing weight decay regulalrization in Adam [[Paper]](https://openreview.net/pdf?id=rk6qdGgCZ) [Code]
+* Understanding and Enhancing Mixed Sample Data Augmentation [[Paper]](https://arxiv.org/pdf/2002.12047v1.pdf) [Code]
+* Adversarial Examples Are Not Bugs, They Are Features [[Paper]](https://papers.nips.cc/paper/8307-adversarial-examples-are-not-bugs-they-are-features.pdf) [Code]
 
 ## # Semi Supervised Learning
 * MixMatch: A Holistic Approach to Semi-Supervised Learning [[Paper]](https://arxiv.org/abs/1905.02249) [[Code]](https://github.com/OFRIN/Tensorflow_MixMatch)
@@ -148,3 +150,4 @@
 
 ## # Awesome GitHub list
 - https://github.com/Hironsan/awesome-embedding-models
+
