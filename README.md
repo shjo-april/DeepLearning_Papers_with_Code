@@ -86,6 +86,7 @@
 * ParseNet: Looking Wider to See Better [[Paper]](https://arxiv.org/abs/1506.04579) [Code]
 * Rethinking Atrous Convolution for Semantic Image Segmentation [[Paper]](https://arxiv.org/abs/1706.05587) [Code]
 * Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation [[Paper]](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Liang-Chieh_Chen_Encoder-Decoder_with_Atrous_ECCV_2018_paper.pdf) [Code]
+* Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Collaborative_Global-Local_Networks_for_Memory-Efficient_Segmentation_of_Ultra-High_Resolution_Images_CVPR_2019_paper.pdf) [Code]
 
 ### Instance Segmentation
 * Mask R-CNN [[Paper]](https://arxiv.org/abs/1703.06870?source=post_page---------------------------) [Code]
@@ -135,7 +136,7 @@
 
 ### Super Resolution
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[Paper]](https://arxiv.org/abs/1609.04802) [Code]
-* Component Attention Guided Face Super-Resolution Network: CAGFace [[Paper]](https://arxiv.org/abs/1910.08761) [Code]
+* Component Attention Guidded Face Super-Resolution Network: CAGFace [[Paper]](https://arxiv.org/abs/1910.08761) [Code]
 * Image Super-Resolution Using Deep Convolutional Networks [[Paper]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_SRCNN)
 * Image Super-Resolution by Neural Texture Transfer [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Image_Super-Resolution_by_Neural_Texture_Transfer_CVPR_2019_paper.pdf) [Code]
 
