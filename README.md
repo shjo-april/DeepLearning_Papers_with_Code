@@ -81,6 +81,7 @@
 * Scale-Aware Trident Networks for Object Detection [[Paper]](https://arxiv.org/abs/1901.01892) [Code]
 * Bag of Freebies for Training Object Detection Neural Networks [[Paper]](https://arxiv.org/abs/1902.04103) [Code]
 * EfficientDet: Scalable and Efficient Object Detection [[Paper]](https://arxiv.org/abs/1911.09070) [Code]
+* Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector [[Paper]](https://arxiv.org/pdf/1908.01998v2.pdf) [Code]
 
 ### Semantic Segmentation
 * Fully Convolutional Networks for Semantic Segmentation [[Paper]](https://arxiv.org/abs/1605.06211) [[Code]](https://github.com/OFRIN/Tensorflow_FCN)
