@@ -34,6 +34,15 @@
 * FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence [[Paper]](https://arxiv.org/pdf/2001.07685v1.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_FixMatch)
 * A Simple Framework for Contrastive Learning of Visual Representations [[Paper]](https://arxiv.org/pdf/2002.05709v1.pdf) [Code]
 
+## # Few-shot/One-shot Learning
+
+### Classification
+* 
+
+### Detection
+* Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector [[Paper]](https://arxiv.org/pdf/1908.01998v2.pdf) [Code]
+* Few-shot Object Detection via Feature Reweighting [[Paper]](https://arxiv.org/pdf/1812.01866v2.pdf) [Code]
+
 ## # AutoML
 * AutoAugment: Learning Augmentation Policies from Data [[Paper]](https://arxiv.org/abs/1805.09501) [Code]
 * NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection [[Paper]](https://arxiv.org/abs/1904.07392) [Code]
@@ -81,7 +90,6 @@
 * Scale-Aware Trident Networks for Object Detection [[Paper]](https://arxiv.org/abs/1901.01892) [Code]
 * Bag of Freebies for Training Object Detection Neural Networks [[Paper]](https://arxiv.org/abs/1902.04103) [Code]
 * EfficientDet: Scalable and Efficient Object Detection [[Paper]](https://arxiv.org/abs/1911.09070) [Code]
-* Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector [[Paper]](https://arxiv.org/pdf/1908.01998v2.pdf) [Code]
 
 ### Semantic Segmentation
 * Fully Convolutional Networks for Semantic Segmentation [[Paper]](https://arxiv.org/abs/1605.06211) [[Code]](https://github.com/OFRIN/Tensorflow_FCN)
