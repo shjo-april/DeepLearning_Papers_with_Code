@@ -37,7 +37,7 @@
 ## # Few-shot/One-shot Learning
 
 ### Classification
-* 
+* Siames
 
 ### Detection
 * Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector [[Paper]](https://arxiv.org/pdf/1908.01998v2.pdf) [Code]
