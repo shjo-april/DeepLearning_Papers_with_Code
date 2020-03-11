@@ -37,7 +37,7 @@
 ## # Few-shot/One-shot Learning
 
 ### Classification
-* Siames
+* Siamese Neural Networks for One-shot Image Recognition [[Paper]](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) [Code]
 
 ### Detection
 * Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector [[Paper]](https://arxiv.org/pdf/1908.01998v2.pdf) [Code]
