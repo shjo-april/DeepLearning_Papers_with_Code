@@ -38,6 +38,7 @@
 
 ### Classification
 * Siamese Neural Networks for One-shot Image Recognition [[Paper]](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) [Code]
+* Transductive Few-shot Learning with Meta-Learned Confidence [[Paper]](https://arxiv.org/pdf/2002.12017v1.pdf) [Code]
 
 ### Detection
 * Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector [[Paper]](https://arxiv.org/pdf/1908.01998v2.pdf) [Code]
