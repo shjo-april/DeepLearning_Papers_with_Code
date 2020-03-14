@@ -138,8 +138,9 @@
 * Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1406.2661) [[Code]](https://github.com/OFRIN/Tensorflow_GAN)
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[Paper]](https://arxiv.org/abs/1703.10593) [[Code]](https://github.com/OFRIN/Tensorflow_CycleGAN)
 * Image-to-Image Translation with Conditional Adversarial Networks [[Paper]](https://arxiv.org/abs/1611.07004) [[Code]](https://github.com/OFRIN/Tensorflow_Pixel2Pixel)
-* StarGAN v2: Diverse Image Synthesis for Multiple Domains [[Paper]](https://arxiv.org/abs/1912.01865) [Code]
+* StarGANv2: Diverse Image Synthesis for Multiple Domains [[Paper]](https://arxiv.org/abs/1912.01865) [Code]
 * SinGAN: Learning a Generative Model from a Single Natural Image [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.pdf) [Code]
+* StyleGAN2 Distillation for Feed-forward Image Manipulation [[Paper]](https://arxiv.org/pdf/2003.03581v1.pdf) [Code]
 
 ### Generative Adversarial Networks (GAN)
 * Conditional Generative Adversarial Nets [[Paper]](https://arxiv.org/abs/1411.1784) [[Code]](https://github.com/OFRIN/Tensorflow_ConditionalGAN)
