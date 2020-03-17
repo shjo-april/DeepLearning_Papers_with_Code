@@ -46,6 +46,9 @@
 * Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector [[Paper]](https://arxiv.org/pdf/1908.01998v2.pdf) [Code]
 * Few-shot Object Detection via Feature Reweighting [[Paper]](https://arxiv.org/pdf/1812.01866v2.pdf) [Code]
 
+### Segmentation
+* One-Shot Segmentation in Clutter [[Paper]](https://arxiv.org/pdf/1803.09597v2.pdf) [Code]
+
 ## # AutoML
 * AutoAugment: Learning Augmentation Policies from Data [[Paper]](https://arxiv.org/abs/1805.09501) [Code]
 * NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection [[Paper]](https://arxiv.org/abs/1904.07392) [Code]
