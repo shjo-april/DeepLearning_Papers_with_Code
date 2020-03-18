@@ -45,6 +45,7 @@
 ### Detection
 * Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector [[Paper]](https://arxiv.org/pdf/1908.01998v2.pdf) [Code]
 * Few-shot Object Detection via Feature Reweighting [[Paper]](https://arxiv.org/pdf/1812.01866v2.pdf) [Code]
+* OS2D: One-Stage One-Shot Object Detection by Matching Anchor Features [[Paper]](https://arxiv.org/pdf/2003.06800v1.pdf) [Code]
 
 ### Segmentation
 * One-Shot Segmentation in Clutter [[Paper]](https://arxiv.org/pdf/1803.09597v2.pdf) [Code]
