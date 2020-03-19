@@ -67,6 +67,9 @@
 * Shake-Shake regularization [[Paper]](https://arxiv.org/pdf/1705.07485.pdf) [Code]
 * Efficient Neural Architecture Search via Parameter Sharing [[Paper]](https://arxiv.org/abs/1802.03268) [[Code]](https://github.com/OFRIN/Tensorflow_EfficientNet)
 
+### Graph Convolutional Networks
+* Multi-Label Image Recognition with Graph Convolutional Networks [[Paper]](https://arxiv.org/abs/1904.03582) [Code]
+
 ### Weakly Supervised Learning
 * Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[Code]](https://github.com/OFRIN/Tensorflow_Learning_Deep_Features_for_Discriminative_Localization)
 * Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf) [Code]
