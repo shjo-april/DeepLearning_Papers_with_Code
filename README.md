@@ -66,7 +66,6 @@
 * MixConv: Mixed Depthwise Convolutional Kernels [[Paper]](https://bmvc2019.org/wp-content/uploads/papers/0583-paper.pdf) [Code]
 * Shake-Shake regularization [[Paper]](https://arxiv.org/pdf/1705.07485.pdf) [Code]
 * Efficient Neural Architecture Search via Parameter Sharing [[Paper]](https://arxiv.org/abs/1802.03268) [[Code]](https://github.com/OFRIN/Tensorflow_EfficientNet)
-* ResNet
 
 ### Graph Convolutional Networks
 * Multi-Label Image Recognition with Graph Convolutional Networks [[Paper]](https://arxiv.org/abs/1904.03582) [Code]
