@@ -10,6 +10,7 @@
 ## # Dataset
 * Microsoft COCO: Common Objects in Context [[Paper]](https://arxiv.org/abs/1405.0312) [[link]](http://cocodataset.org/#home)
 * The iNaturalist Species Classification and Detection Dataset [[Paper]](https://arxiv.org/pdf/1707.06642v2.pdf) [link]
+* Masked Face Recognition Dataset and Application [[Paper]](https://arxiv.org/pdf/2003.09093v2.pdf) [link]
 
 ## # Training Techniques
 * Group Normalization [[Paper]](https://arxiv.org/pdf/1803.08494.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_Group_Norm_vs_Batch_Norm)
