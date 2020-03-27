@@ -173,6 +173,7 @@
 
 ## # Natural Language Processing
 * Sequence to Sequence Learning with Neural Networks [[Paper]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) [Code]
+* Enriching Word Vectors with Subword Information [[Paper]](https://arxiv.org/abs/1607.04606) [Code]
 
 ## # Awesome GitHub list
 - https://github.com/Hironsan/awesome-embedding-models
