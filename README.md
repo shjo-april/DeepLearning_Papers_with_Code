@@ -177,4 +177,4 @@
 
 ## # Awesome GitHub list
 - https://github.com/Hironsan/awesome-embedding-models
-
+- https://github.com/kabbi159/awesome-image-tagging
