@@ -80,6 +80,7 @@
 * Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shimoda_Self-Supervised_Difference_Detection_for_Weakly-Supervised_Semantic_Segmentation_ICCV_2019_paper.pdf) [Code]
 * Integral Object Mining via Online Attention Accumulation [[Pape1r]](http://mftp.mmcheng.net/Papers/19ICCV_OAA.pdf) [[Code]](https://github.com/OFRIN/Tensorflow_OAA)
 * Self-supervised Scale Equivariant Networks for Weakly Supervivsed Semantic Segmentation [[Paper]](https://arxiv.org/abs/1909.03714) [Code]
+* FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference [[Paper]](https://arxiv.org/abs/1902.10421) [Code]
 
 ### Detection
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[Paper]](https://arxiv.org/pdf/1506.01497.pdf) [Code]
