@@ -177,5 +177,6 @@
 * Enriching Word Vectors with Subword Information [[Paper]](https://arxiv.org/abs/1607.04606) [Code]
 
 ## # Awesome GitHub list
-- https://github.com/Hironsan/awesome-embedding-models
-- https://github.com/kabbi159/awesome-image-tagging
+* https://github.com/Hironsan/awesome-embedding-models
+* https://github.com/kabbi159/awesome-image-tagging
+ 
