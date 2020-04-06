@@ -39,6 +39,7 @@
 
 ## # Self-Supervised Learning
 * A Simple Framework for Contrastive Learning of Visual Representations [[Paper]](https://arxiv.org/pdf/2002.05709v1.pdf) [Code]
+*
 
 ## # Few-shot/One-shot Learning
 
