@@ -81,6 +81,7 @@
 * Integral Object Mining via Online Attention Accumulation [[Pape1r]](http://mftp.mmcheng.net/Papers/19ICCV_OAA.pdf) [[Tensorflow]](https://github.com/OFRIN/Tensorflow_OAA)
 * Self-supervised Scale Equivariant Networks for Weakly Supervivsed Semantic Segmentation [[Paper]](https://arxiv.org/abs/1909.03714) [Tensorflow]
 * FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference [[Paper]](https://arxiv.org/abs/1902.10421) [Tensorflow]
+* Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations [[Paper]](https://arxiv.org/abs/1904.05044) [Tensorflow]
 
 ### Detection
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[Paper]](https://arxiv.org/pdf/1506.01497.pdf) [Tensorflow]
