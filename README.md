@@ -82,6 +82,7 @@
 * Self-supervised Scale Equivariant Networks for Weakly Supervivsed Semantic Segmentation [[Paper]](https://arxiv.org/abs/1909.03714) [Tensorflow]
 * FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference [[Paper]](https://arxiv.org/abs/1902.10421) [Tensorflow]
 * Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations [[Paper]](https://arxiv.org/abs/1904.05044) [Tensorflow]
+* Single-Stage Semantic Segmentation from Image Labels [[Paper]](https://arxiv.org/abs/2005.08104) [Code]
 
 ### Detection
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[Paper]](https://arxiv.org/pdf/1506.01497.pdf) [Tensorflow]
